@@ -28,5 +28,61 @@
             "price": 70,
             "profesor": "Alexis Lozada"
         }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Juan Casas",
+            "username": "JuanCa",
+            "email": "juanca@gmail.com",
+            "location": {
+                "street": "Kulas Light",
+                "suite": "Apt. 556",
+                "city": "Gwenborough",
+                "zipcode": "92998-3874",
+                "geo": {
+                    "lat": "-37.3159",
+                    "lng": "81.1496"
+                }
+            },
+            "telefono": "1-770-736-8031 x56442",
+            "website": "hildegard.org"
+        },
+        {
+            "id": 2,
+            "name": "Bryan Adams",
+            "username": "bryAmd",
+            "email": "bryanadams@yahoo.com",
+            "location": {
+                "street": "Victor Plains",
+                "suite": "Suite 879",
+                "city": "Wisokyburgh",
+                "zipcode": "90566-7771",
+                "geo": {
+                    "lat": "-43.9509",
+                    "lng": "-34.4618"
+                }
+            },
+            "phone": "010-692-6593 x09125",
+            "website": "anastasia.net"
+        },
+        {
+            "id": 3,
+            "name": "Ana Casas",
+            "username": "annitayuj",
+            "email": "anita@hotmail.com",
+            "location": {
+                "street": "Douglas Extension",
+                "suite": "Suite 847",
+                "city": "McKenziehaven",
+                "zipcode": "59590-4157",
+                "geo": {
+                    "lat": "-68.6102",
+                    "lng": "-47.0653"
+                }
+            },
+            "phone": "1-463-123-4447",
+            "website": "ramiro.info"
+        }
     ]
 }
