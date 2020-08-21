@@ -1,14 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "cursos": [
+        {
+            "id": 1,
+            "title": "Testing con Go",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/a9913502-8af2-400b-8095-7b78f52200dc.png",
+            "price": 20,
+            "profesor": "Juan Martinez"
+        },
+        {
+            "id": 2,
+            "title": "Flutter desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/f8016461-72f6-40c9-adba-9186b240748b.png",
+            "price": 30,
+            "profesor": "Beto Sanchez"
+        },
+        {
+            "id": 3,
+            "title": "CSS Avanzado",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/262e68b3-eea2-43f2-9e9a-febc106a8295.png",
+            "price": 50,
+            "profesor": "Alvaro Felipe"
+        },
+        {
+            "id": 4,
+            "title": "Librerías JavaScript",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/e8207ec4-e9a7-4cba-86a8-ee80c443a37f.jpg",
+            "price": 70,
+            "profesor": "Alexis Lozada"
+        }
+    ]
 }
